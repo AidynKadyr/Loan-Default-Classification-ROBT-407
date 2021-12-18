@@ -1,2 +1,2 @@
 # ROBT-407-Machine-Learning
-Homeworks and projects for the course
+Final Project for the course
