@@ -1,2 +1,2 @@
 # ROBT-407-Machine-Learning
-Final Project for the course
+Final Project Loan Default Classification
